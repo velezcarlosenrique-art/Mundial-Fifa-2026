@@ -1,0 +1,22 @@
+* {text-indent:0px ; margin:0px ; padding:0px ; border:0px}
+body {background-color: #E6E6FA;text-align: center}
+#global {width:800px;margin: 4px auto }
+#cabecera {background-color: white ; border-left: black 1px solid ; border-right: black 1px solid ; height:130px }
+#logotipo   {background-color: white ; width:280px ; float:left }
+#publicidad {background-color: white  ; width:518px ; float:right; margin-top:25px}
+#navegacion {background-color: green; border: black 1px solid ; height:30px}
+#navegacion li {float:left; list-style:none; margin: 0px 20px 0px 20px }
+#navegacion ul { margin-left: 180px }
+#navegacion a {color: white; font-size:1.5em ; text-decoration: none}
+#navegacion a:link {}
+#navegacion a:visited {}
+#navegacion a:hover {color: white; text-decoration: underline; background-color: blue; display: block }
+#navegacion a:active {}
+#logo img {border-style: none; margin-left:150px; margin-top:10px}
+h1 {font-size: 1.8em; color:black ; font-weight: bold ; text-decoration: none ; text-align: center; margin:20px 0px 20px 0px}
+h2 {font-size: 1.8em; color:red ; font-weight: bold ; text-decoration: none; text-align: center; margin:20px 0px 20px 0px}
+h3 {font-size: 1.8em; color:black ; font-weight: bold ; text-decoration: none; text-align: center; margin:20px 0px 4px 6px}
+#curva-superior { background-image: url(objetos/curva-superior.gif) ; background-repeat: no-repeat  ;
+                  width:800px ; 
+                  height: 8px ;
+                  overflow : hidden}
